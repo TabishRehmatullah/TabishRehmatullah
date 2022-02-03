@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tabishmemon
-- 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning React.js and React Native
-- 💞️ I’m looking to collaborate on front-end web development 
+- 👀 I’m interested in web and hybrid app development 
+- 🌱 I’m currently learning Javascript and Flutter
+- 💞️ I’m looking to collaborate on front-end web development and flutter development
 - 📫 How to reach me: through facebook: Tabish Rehmatullah
 
 <!---
