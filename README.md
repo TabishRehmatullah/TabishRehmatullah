@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Tabish Rehmatullah" /></p>
 
 
-- 🌱 I’m currently learning Flutter, AWS, DevOps, and Git
+- 🌱 I’m currently learning Angular, .Net, and Git
 
 - 📫 How to reach me **Tabishmemon02gmail.com**
 
